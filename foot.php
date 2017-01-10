@@ -6,7 +6,6 @@
 -->
 </div>
 <footer class="w3-container w3-red">
-  <h3>Powered By : <a href="http://www.howi.in">HOWI.IN<a/></h3>
 </footer>
 <!-- 
 	* @source code designed by Muhsin Mohamed Pc for http://www.howi.in
